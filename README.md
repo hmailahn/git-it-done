@@ -16,3 +16,5 @@ GitHub API
 Deployed Project can be found here:(https://hmailahn.github.io/git-it-done/)
 Repository can be found here:(https://github.com/hmailahn/git-it-done)
 
+![image](https://github.com/hmailahn/git-it-done/blob/main/assets/images/screenshot.png)
+
